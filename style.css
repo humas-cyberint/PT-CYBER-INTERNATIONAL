@@ -39,7 +39,7 @@ html, body {
 .watermark {
   position: fixed;
   inset: 0;
-  background-image: url('assets/watermark.png');
+  background-image: url('watermark.png');
   background-repeat: no-repeat;
   background-position: center;
   background-size: 700px;
@@ -52,7 +52,7 @@ html, body {
 .bg-pattern {
   position: fixed;
   inset: 0;
-  background-image: url('assets/bg.png');
+  background-image: url('bg.png');
   background-repeat: repeat;
   opacity: 0.6;
   pointer-events: none;
